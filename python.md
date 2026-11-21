@@ -17,8 +17,11 @@
 - **Mantıksal:** `and` (ikisi de doğruysa) `or` (biri doğruysa yeter) `not` (tersine çevirir)
 
 ### 3. Koşul Yapıları (if - elif - else)
-Programa karar verdirmek için kullanılır İki nokta `:` koyup alt satırda Tab ile içeriden yazılır
-
+-Programa karar verdirmek için kullanılır İki nokta `:` koyup alt satırda Tab ile içeriden yazılır
+-if: ilk şart doğruysa çalışır
+-eilf: İlk şart yanlışsa başka şart kontrolü
+-else: hepsi yanlışsa burası çalışır
+-iç içe koşul(nested if): bir şart doğruysa ikincisi kontrol edilir (ana kapıyı açtıktan sonra oda kapısı açmak gibi)
 
 ### 4. Fonksiyonlar (`def`)
 Aynı kodu tekrar tekrar yazmamak için kendi komutumuzu oluştururuz. Parametre ile dışarıdan bilgi alıyor `return` ile sonucu geri veriyor. Kodu parçalara böldüğü için okuması kolay oluyor
