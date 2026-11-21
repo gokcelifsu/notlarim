@@ -1,9 +1,9 @@
 # 1. Hafta: Python Giriş Notları
 
 
-## 2. Python Temelleri
+##  Python Temelleri
 
-### 2.1 Değişkenler ve Veri Tipleri
+### 1. Değişkenler ve Veri Tipleri
 - **`int`:** Tam sayılar 
 - **`float`:** Ondalıklı sayılar
 - **`string` (`str`):** Yazılar (tırnak içinde yazılır)
